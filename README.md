@@ -11,4 +11,4 @@
 Contributions, issues, and suggestions are always welcome!
 
 ## License
-This project is licensed under the [MIT License](MIT-License.txt).
+This project is licensed under the [MIT License](LICENSE).
